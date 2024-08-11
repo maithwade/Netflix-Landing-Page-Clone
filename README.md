@@ -19,3 +19,5 @@ This project is a clone of the Netflix landing page, created using HTML, CSS and
 
 ## Demo
 
+https://maithwade.github.io/Netflix-Landing-Page-Clone/
+
