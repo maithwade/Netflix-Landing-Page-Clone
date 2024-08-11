@@ -16,3 +16,6 @@ This project is a clone of the Netflix landing page, created using HTML, CSS and
 - **CSS:** Styling the page, including responsive design and layout adjustments.
 - **JavaScript:** Adding interactivity to the tabs and other dynamic elements.
 - **Font Awesome:** For incorporating icons used throughout the page.
+
+## Demo
+
